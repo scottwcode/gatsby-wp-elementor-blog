@@ -34,7 +34,7 @@ GATSBY_SIDEBAR=false
 
 ### WordPress Setup
 
-1. Upload and activate all the plugins from wordpress/plugins folder of this repo into your WordPress Site.
+1. Upload and activate all the plugins from wordpress/plugins folder of this repo into your WordPress Site
 
 THEN,
 
@@ -45,12 +45,12 @@ THEN,
    - Set Footer menu as `HCMS Footer Menu`
      ![](demos/footer-menu-demo.png)
 
-3. You can also set text widgets in #HCMS Footer #1 and #HCMS Footer #2 under Appearance > Widgets in WordPress.
+3. You can also set text widgets in #HCMS Footer #1 and #HCMS Footer #2 under Appearance > Widgets in WordPress
 4. Import all the ACF data from `wordpress/acf-data` json file of this repo, into WordPress by going to WordPress Dashboard > Custom Fields > Tools > Import
-5. Create a Home Page ( if there isn't one already )and make sure you have a home page and Location rule is set to Home page.
+5. Create a Home Page ( if there isn't one already )and make sure you have a home page and Location rule is set to Home page
    ![](demos/acf-home-screenshot.png)
 6. Add the ACF required data on the Home page from WordPress Dashboard from acf.
-7. If not already done, set your site title, description and logo from WordPress customizer.
+7. If not already done, set your site title, description and logo from WordPress customizer
 8. Make sure on the Home page that under Settings that the Permalink..URL Slug is set to home
 
 **Open the source code and start editing however you'd like for add'l changes**
