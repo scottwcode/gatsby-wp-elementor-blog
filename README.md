@@ -3,7 +3,7 @@
 A Gatsby site using WordPress as a headless CMS.
 Front end wiring in Gatsby/React with backend content in WordPress.
 
-### Originally Created from Gatsby-WordPress-Theme-Phoenix with additional updates to allow for using WP Elementor
+### Originally Created from Gatsby-WordPress-Theme-Phoenix
 
 ## Features
 
