@@ -44,6 +44,36 @@ query GET_FRONT_PAGE {
 	      searchSection {
 	        fieldGroupName
 	        searchLabel
+	        backgroundImage {
+	          id
+	          altText
+	          sourceUrl
+	          srcSet
+	          sizes
+	          mediaDetails {
+	            width
+	            height
+	          }
+	        }
+	        taxonomies {
+	          name
+	          uri
+	        }
+	        taxonomyIconOne {
+	          id
+	          altText
+	          sourceUrl
+	        }
+	        taxonomyIconTwo {
+	          id
+	          altText
+	          sourceUrl
+	        }
+	        taxonomyIconThree {
+	          id
+	          altText
+	          sourceUrl
+	        }
 	      }
 	      featuredPostsSection {
 	        heading
