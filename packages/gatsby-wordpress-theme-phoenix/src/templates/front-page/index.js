@@ -23,7 +23,7 @@ const FrontPage = ( props ) => {
 			{
 				! isEmpty( props.pageContext ) ? (
 					<>
-						<SEO title="Phoenix: Gatsby WordPress Theme" seo={props?.pageContext?.page?.seo} uri={'/'}/>
+						<SEO title="Gatsby with Wordpress" seo={props?.pageContext?.page?.seo} uri={'/'}/>
 						<Hero data={ banner }/>
 						<Search data={ searchSection } posts={ allPosts } engine={ options }/>
 						<FeaturedPosts data={ featuredPostsSection }/>

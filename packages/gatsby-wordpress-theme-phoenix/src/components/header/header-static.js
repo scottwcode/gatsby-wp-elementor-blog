@@ -22,8 +22,10 @@ const Header = ( { data } ) => {
 						     alt="header logo"/>
 					</Link>
 					<div>
-						<h2 className="screen-reader-text site-brand__title">{ siteTitle }</h2>
-						<p className="site-brand__description">{ siteTagLine }</p>
+						{/* <h2 className="screen-reader-text site-brand__title">{ siteTitle }</h2>
+						<p className="site-brand__description">{ siteTagLine }</p> */}
+						<h2 className="screen-reader-text site-brand__title">{ siteTagLine }</h2>
+						<p className="site-brand__description">{ siteTitle }</p>
 					</div>
 				</div>
 
