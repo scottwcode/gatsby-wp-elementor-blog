@@ -25,7 +25,7 @@ const Header = ( { data } ) => {
 						{/* <h2 className="screen-reader-text site-brand__title">{ siteTitle }</h2>
 						<p className="site-brand__description">{ siteTagLine }</p> */}
 						<h2 className="screen-reader-text site-brand__title">{ siteTagLine }</h2>
-						<p className="site-brand__description">{ siteTitle }</p>
+						<h4 className="site-brand__description">{ siteTitle }</h4>
 					</div>
 				</div>
 

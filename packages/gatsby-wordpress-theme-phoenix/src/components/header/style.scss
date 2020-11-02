@@ -7,7 +7,8 @@
 }
 
 .site-brand__description {
-  max-width: 200px;
+  // max-width: 200px;
+  max-width: 400px;
   margin-left: 12px;
 
   @include mq(medium) {
