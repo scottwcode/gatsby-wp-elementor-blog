@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-wordpress-themes",
+  "name": "gatsby-wp-elementor-blog",
   "version": "2.0.9",
   "private": true,
-  "description": "Gatsby WordPress Theme Project",
+  "description": "Gatsby with WordPress Project",
   "main": "index.js",
   "workspaces": [
     "site",
@@ -17,21 +17,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imranhsayed/gatsby-wordpress-theme.git"
+    "url": "git+https://github.com/scottwcode/gatsby-wp-elementor-blog.git"
   },
   "keywords": [
     "gatsby",
     "gatsby-plugin",
     "gatsby-theme",
     "gatsby-wordpress-theme",
+    "gatsby-wp-elementor-blog",
     "wordpress",
     "react",
     "javascript"
   ],
-  "author": "Imran Sayed",
+  "author": "ScottW",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imranhsayed/gatsby-wordpress-theme/issues"
+    "url": "https://github.com/imranhsayed/gatsby-wp-elementor-blog/issues"
   },
-  "homepage": "https://github.com/imranhsayed/gatsby-wordpress-theme#readme"
+  "homepage": "https://github.com/imranhsayed/gatsby-wp-elementor-blog#readme"
 }
