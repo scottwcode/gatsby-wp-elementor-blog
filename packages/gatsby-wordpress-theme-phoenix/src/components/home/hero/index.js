@@ -15,9 +15,9 @@ const Hero = ( props ) => {
 		<div className="hero-section wrapper">
 			<div className="hero-left">
 				{ title ? (
-					<h2>{ title }</h2>
+					<h1>{ title }</h1>
 				) : (
-					<h2>{ config.heroSection.heroTitle }</h2>
+					<h1>{ config.heroSection.heroTitle }</h1>
 				) }
 				{ description ? (
 					<p className="hero-section__description">
