@@ -53,8 +53,8 @@ THEN,
 7. If not already done, set your site title, description and logo from WordPress customizer
 8. Make sure on the Home page that under Settings that the Permalink..URL Slug is set to home
 
-**Open the source code and start editing however you'd like for add'l changes**
-**To see your site in action type the following**
+** Open the source code and start editing however you'd like for add'l changes **
+** To see your site in action type the following **
 
 `npm run dev`
 
