@@ -11,7 +11,7 @@ Front end wiring in Gatsby/React with backend content in WordPress.
 2. PWA ( Works Offline )
 3. Image Optimization ( w/ blur effect )
 4. ACF - Advanced Custom Fields ( from WP )
-5. GraphQL ( in Gatsby and with wp-graphql on WordPress )
+5. GraphQL ( both in Gatsby and with wp-graphql on WordPress )
 6. Blog Page with Pagination
 7. Offline Search Feature
 8. Categories, Archive Page, Custom Home Page
