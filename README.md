@@ -34,7 +34,7 @@ GATSBY_SIDEBAR=false
 
 ### WordPress Setup
 
-1. Upload and activate all the plugins from wordpress/plugins folder of this repo into your WordPress Site
+1. Upload and activate all the plugins from wordpress/plugins folder into your WordPress Site
 
 THEN,
 
