@@ -36,7 +36,7 @@ GATSBY_SIDEBAR=false
 
 1. Upload and activate all the plugins from wordpress/plugins folder into your WordPress Site
 
-THEN,
+THEN after activating the plugins,
 
 2. - Set Header menu as `HCMS Header Menu`
 
