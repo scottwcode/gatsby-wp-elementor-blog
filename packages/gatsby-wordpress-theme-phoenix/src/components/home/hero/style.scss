@@ -1,7 +1,8 @@
 @import "../../../sass/essentials";
 
 .hero-section {
-  margin-top: 70px;
+  margin-top: 10px;
+  // margin-top: 70px;
   align-items: center;
 
   @media only screen and (min-width: $tablet) {
@@ -24,6 +25,7 @@
 }
 
 .hero-left {
+  margin-top: 10px; // added 2020-11-11
   margin-bottom: 50px;
   margin-right: 20px;
   // margin-right: 50px;
